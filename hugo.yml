@@ -1,0 +1,15 @@
+languageCode: en
+title: "Minecraft Access Server Docs"
+disableKinds:
+  - taxonomy
+  - term
+  - rss
+theme:
+  - docs
+
+security:
+  funcs:
+    getenv:
+      - ^GITHUB_REPOSITORY$
+      - ^GITHUB_REF_NAME$
+      - ^GITHUB_SHA$
