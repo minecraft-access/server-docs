@@ -1,5 +1,7 @@
 languageCode: en
 title: "Minecraft Access Server Docs"
+enableGitInfo: true
+summaryLength: 25
 disableKinds:
   - taxonomy
   - term
@@ -7,7 +9,16 @@ disableKinds:
 theme:
   - docs
 
+markup:
+  tableOfContents:
+    ordered: true
+    startLevel: 2
+    endLevel: 4
+
 security:
+  http:
+    mediaTypes:
+      - "^audio/.+$"
   funcs:
     getenv:
       - ^GITHUB_REPOSITORY$
