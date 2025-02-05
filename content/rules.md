@@ -59,6 +59,7 @@ Revealing or threatening to reveal personal information about other players is s
 ## Enforcement
 Staff members reserve the right to take any action deemed appropriate against any player for any reason.
 Exact punishments may vary.
+Staff also reserve the right to update this rules list at anytime on condition that staff will notify players via the [Discord server] when updates occur, and continuing to engage with the server in any way after any such update takes place indicates your agreement with the updated guidelines.
 
 ## Appeals & Reports
 If you believe that a punishment has been made in error, would like to appeal a punishment, or would like to report another player, bug, or exploit,
